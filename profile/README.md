@@ -1,4 +1,4 @@
-<img src="./assets/logo.webp" alt="Oil theme logo | Brody MacLean" width="100" style="display: block; margin: 0 auto;">
+<img src=".././assets/logo.webp" alt="Oil theme logo | Brody MacLean" width="100" style="display: block; margin: 0 auto;">
 
 # Oil
 
