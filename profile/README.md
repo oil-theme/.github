@@ -4,7 +4,7 @@ A visually appealing dark theme designed for clarity. Enhancing the coding exper
 
 ## Themes
 
-Oil currently supports many applications. You can find them below:
+Oil currently supports 4 applications. You can find them below:
 
 <!-- ### Browsers -->
 
